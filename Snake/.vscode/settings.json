@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "algorithm": "c",
+        "*.tcc": "c",
+        "array": "c",
+        "atomic": "c",
+        "cmath": "c",
+        "concepts": "c",
+        "functional": "c",
+        "iterator": "c",
+        "memory_resource": "c",
+        "optional": "c",
+        "type_traits": "c",
+        "random": "c",
+        "limits": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "string_view": "c",
+        "tuple": "c",
+        "typeinfo": "c",
+        "compare": "c",
+        "numeric": "c"
+    }
+}
